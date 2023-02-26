@@ -1,4 +1,4 @@
-#include <iostream>
+ï»¿#include <iostream>
 using namespace std;
 
 int main() {
@@ -10,10 +10,10 @@ int main() {
 	cout << endl;
 	cout << "\t\tWelcome to the simple calculator program!" << endl << endl;
 	cout << "Please, choose the action you want to execute by enetering one of the number below: " << endl;
-	cout << " 1 - addition (ñëîæåíèå)" << endl;
-	cout << " 2 - subtraction (âû÷èòàíèå)" << endl;
-	cout << " 3 - multiplication (óìíîæåíèå)" << endl;
-	cout << " 4 - division (äåëåíèå)" << endl; 
+	cout << " 1 - addition (ÑÐ»Ð¾Ð¶ÐµÐ½Ð¸Ðµ)" << endl;
+	cout << " 2 - subtraction (Ð²Ñ‹Ñ‡Ð¸Ñ‚Ð°Ð½Ð¸Ðµ)" << endl;
+	cout << " 3 - multiplication (ÑƒÐ¼Ð½Ð¾Ð¶ÐµÐ½Ð¸Ðµ)" << endl;
+	cout << " 4 - division (Ð´ÐµÐ»ÐµÐ½Ð¸Ðµ)" << endl; 
 	cin >> user_action_choice;
 	cout << endl;
 		cout << "Please, enter the first number of you calculation: " << endl;
